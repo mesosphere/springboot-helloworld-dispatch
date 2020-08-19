@@ -4,8 +4,8 @@ This application is used to Demo CI/CD concepts using D2iQ Dispatch on Konvoy.
 ## 1. Prerequisites
 
 ### 1.1 Fork this repo along with the accompanying GitOps repo to your account:
-1. https://github.com/cmays20/springboot-helloworld-dispatch
-1. https://github.com/cmays20/springboot-helloworld-dispatch-gitops
+1. https://github.com/mesosphere/springboot-helloworld-dispatch
+1. https://github.com/mesosphere/springboot-helloworld-dispatch-gitops
 
 Clone these repos to your local workstation as you will need to edit some of the files.
 
@@ -27,7 +27,7 @@ The Dispatch documentation covers creating a token and which permissions it need
 Click on the GitHub black text to expand the instructions under step 1 of "Setting up Github credentials".
 
 ### 1.4 Install Sonarqube
-Use the following repository as a guide to install Sonarqube using Argo and GitOps: https://github.com/cmays20/sonar-gitops
+Use the following repository as a guide to install Sonarqube using Argo and GitOps: https://github.com/mesosphere/sonar-gitops
 
 ## 2. Demo Setup
 
